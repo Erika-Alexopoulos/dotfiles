@@ -1,0 +1,5 @@
+~/.fehbg &
+tint2 & 
+xrdb ~/.config/xorg/.Xresources &
+dunst & 
+compton
